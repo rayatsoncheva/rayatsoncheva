@@ -8,13 +8,13 @@
 
 🖌️ **SoftUni Creative:**
 - Crafting my skills as a versatile UX/UI Designer at SoftUni Creative, I've seamlessly blended design with programming.
-- Completed courses include "Design Basics," "UI Design," "UX Design," "Photoshop," "Illustrator," "After Effects," and "InDesign."
-- Skills: UI Design, Adobe Photoshop, Illustrator, After Effects, Figma, UX Design, Adobe InDesign.
+- Completed courses include "Design Basics", "UI Design", "UX Design", "Photoshop", "Illustrator", "After Effects", "InDesign", "UI Design Systems", "UI Design Implementation".
+- Skills: UI Design, Adobe Photoshop, Illustrator, After Effects, Figma, UX Design, Adobe InDesign, UI Design Systems, UI Design Implementation, Web Design, Web Analytics, Web Content Writing.
 
 💻 **SoftUni University:**
 - Currently a proud student at "SoftUni University."
-- Successfully completed courses such as "Programming Basics with C#", "Programming Fundamentals with C#" and "C# Advanced".
-- Skills: Programming, C#.
+- Successfully completed courses such as "Programming Basics with C#", "Programming Fundamentals with C#", "C# Advanced", "C# OOP" and "HTML & CSS".
+- Skills: Programming, C#, Object-Oriented Programming (OOP), HTML & CSS, Web Development.
 
 🌐 **Telerik Academy School:**
 - Benefiting from invaluable training at Telerik Academy, covering HTML, CSS, Algorithmic Programming, Game Development (2020-2021), and Web Programming (2021-2022).
