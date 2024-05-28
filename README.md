@@ -8,8 +8,8 @@
 
 🖌️ **SoftUni Creative:**
 - Crafting my skills as a versatile UX/UI Designer at SoftUni Creative, I've seamlessly blended design with programming.
-- Completed courses include "Design Basics", "UI Design", "UX Design", "Photoshop", "Illustrator", "After Effects", "InDesign", "UI Design Systems", "UI Design Implementation", "UX Discovery".
-- Skills: UI Design, Adobe Photoshop, Illustrator, After Effects, Figma, UX Design, Adobe InDesign, UI Design Systems, UI Design Implementation, Web Design, Web Analytics, Web Content Writing, UX Discovery.
+- Completed courses include "Design Basics", "UI Design", "UX Design", "Photoshop", "Illustrator", "After Effects", "InDesign", "UI Design Systems", "UI Design Implementation", "UX Discovery", "UX Design Implementation".
+- Skills: UI Design, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, UI Design Systems, Figma, UX Design, Adobe InDesign, UI Design Implementation, Web Design,Web Analytics, Web Content Writing, UX Discovery, Design Implementation, Task Analysis, Usability evaluation, Design critique
 
 💻 **SoftUni University:**
 - Currently a proud student at "SoftUni University."
